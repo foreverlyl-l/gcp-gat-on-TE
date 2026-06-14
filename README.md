@@ -62,3 +62,6 @@ python diagnose.py `
 python diagnose.py --checkpoint outputs_ppgcn_rieth\best_path_gat.pt --input one_window.npy
 ```
 
+## 5. License
+
+MIT License. Copyright (c) 2026 foreverlyl-l.
