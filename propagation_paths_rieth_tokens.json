@@ -1,0 +1,13 @@
+{
+  "note": "Literature-constrained TEP propagation paths for Rieth data. Tokens use X1-X41 and XMV1-XMV11. These are still approximate unless Fig. 9 is manually transcribed exactly.",
+  "paths": {
+    "1": ["X20", "X16", "X13", "X7", "XMV6", "X23", "X25", "XMV3", "X29", "X31"],
+    "4": ["X21", "X9", "X7", "XMV10", "X22", "X13"],
+    "5": ["X22", "X11", "X13", "X16", "X20", "XMV11"],
+    "6": ["X1", "X23", "XMV3", "X29", "X31", "X7", "X21", "X22", "XMV5", "X20"],
+    "7": ["X4", "XMV4", "X16", "X13", "X7", "X20", "XMV5", "X21", "X22", "XMV10"],
+    "8": ["X1", "X2", "X3", "X4", "XMV4", "X23", "X24", "X25", "X26", "X27", "X28", "X29", "X30", "X31"],
+    "12": ["X22", "X11", "XMV11", "X13", "X16", "X20", "X37", "X38", "X39", "X40", "X41"],
+    "13": ["X7", "X13", "X16", "X20", "X9", "X21", "X22", "X23", "X25", "X29", "X31"]
+  }
+}
